@@ -1,3 +1,2 @@
 #!/bin/bash
-sudo chown betty
-shell scripting_permission
+su betty
