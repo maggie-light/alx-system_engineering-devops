@@ -1,1 +1,2 @@
-shell input and output redirections and filters
+shell, i/o redirections and filters
+
